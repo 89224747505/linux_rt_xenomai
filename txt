@@ -1,1 +1,1 @@
-git push --set-upstream https://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@github.com/89224747505/linux_rt_xenomai.git master
+git push --set-upstream https://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@github.com/89224747505/linux_rt_xenomai.git master
